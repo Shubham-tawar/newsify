@@ -1,3 +1,6 @@
+# NEWSIFY - A News App
+This news app fetch the news from NEWSAPI of different types of news, different domians.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

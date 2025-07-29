@@ -43,5 +43,5 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/newsify.git
+   git clone https://github.com/Shubham-tawar/newsify.git
    cd newsify
